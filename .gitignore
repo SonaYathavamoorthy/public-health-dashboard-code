@@ -1,0 +1,15 @@
+data/processed/*.db
+data/processed/*.csv
+data/processed/*.png
+data/processed/_watermark.json
+!data/processed/.gitkeep
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+.DS_Store
+.vscode/
+.idea/
